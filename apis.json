@@ -1,0 +1,61 @@
+{
+    "name": "CloudRail",
+    "description": "API Integration Solution for Developers: 10x Faster ??? Less Maintenance ??? No Vendor-Lock-In. Use the same clean interface across multiple providers.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11420-cloudrail.jpg",
+    "tags": [
+        "aggregation",
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloudrail\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CloudRail",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11420-cloudrail.jpg",
+            "humanURL": "https:\/\/cloudrail.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudrail-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudrail-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/cloudrail.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/cloudrail.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cloudrail"
+        },
+        {
+            "type": "Email",
+            "url": "info@cloud-rail.com "
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CloudRail"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/cloudrail.com\/"
+        }
+    ]
+}
